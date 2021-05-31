@@ -1,8 +1,5 @@
-/* External fonts */
-@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
-
 html {
-	font-family: "PT Sans", Helvetica, Arial, sans-serif;
+	font-family: Helvetica, Arial, sans-serif;
 }
 
 #fade {

@@ -17,5 +17,5 @@ Design an original, <u>useful</u> website dedicated to the appreciation of the b
 	|	Drug addiction makes students unproductive, miltary methamphetamine use catches up to soldiers as their
 	|	"wonder drug" stops working. The Nazi regime falls down as the campaign in Russia results in utter failure.
 	|
-	|-> **about** (about.html):
+	|-> **the credits** (credits.html):
 		Describe the book, the purpose of the site, and the author.
