@@ -3,7 +3,7 @@ html {
 }
 
 #fade {
-	background-color: rgba(0, 0, 0, 0.5);
+	background-color: rgba(0, 0, 0, 0.6);
 	display: flex;
 	position: absolute;
 	top: 0;
@@ -75,4 +75,28 @@ html {
 
 .link:hover {
 	text-decoration: underline;
+}
+
+.quote {
+	display: flex;
+}
+
+.quote p {
+	margin-top: 0;
+}
+
+#quote-mark {
+	font-size: 4em;
+	font-weight: bold;
+	margin-top: 0;
+	margin-right: 10px;
+	margin-bottom: 0;
+}
+
+#quote-mark-b {
+	font-size: 4em;
+	font-weight: bold;
+	margin-top: 0;
+	margin-right: 10px;
+	margin-bottom: -1em;
 }
